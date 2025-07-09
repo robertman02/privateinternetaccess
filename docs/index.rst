@@ -3,7 +3,7 @@ How to Login Private Internet Access Account?
 
 Accessing your **Private Internet Access login account** is the first step toward browsing the internet with confidence and safety. If you're someone who values privacy, anonymity, and protection while surfing, then using **PIA (Private Internet Access)** is a smart decision. However, logging into your **PIA login account** might feel complicated at times—especially for new users.
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
